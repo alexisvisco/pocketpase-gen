@@ -4,7 +4,7 @@ This is a poc for code gen of models of pocketpase instance.
 
 ## How to use
 
-Install the binary with `go install github.com/pocketbase/pocketbase-gen/cmd/pb-gen@latest`
+Install the binary with `go install github.com/pocketbase/pocketpase-gen/cmd/pb-gen@latest`
 
 ```bash
 pb-gen models --help
