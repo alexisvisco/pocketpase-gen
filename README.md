@@ -1,6 +1,6 @@
 # pocketpase-gen
 
-This is a poc for code gen of models of pocketbase instance. 
+This is a poc for code gen of models of pocketpase instance. 
 
 ## How to use
 
