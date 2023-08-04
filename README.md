@@ -4,6 +4,8 @@ This is a poc for code gen of models of pocketbase instance.
 
 ## How to use
 
+Install the binary with `go install github.com/pocketbase/pocketbase-gen/cmd/pb-gen@latest`
+
 ```bash
 pb-gen models --help
 Generate models from a pocketbase instance sqlite file
