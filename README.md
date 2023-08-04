@@ -40,5 +40,5 @@ By default the db-path is `pb_data/data.db`.
 - Hook models generation (beforeSave, afterSave, beforeDelete, afterDelete but with the model as parameter)
 - Add/Remove for arrayable fields
 - Add automated tests
-
+- id, created, updated gen on models
 
