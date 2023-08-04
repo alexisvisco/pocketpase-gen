@@ -1,0 +1,1 @@
+# pocketpase-gen
